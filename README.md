@@ -120,11 +120,13 @@ kubectl logs -n argocd deployment/argocd-application-controller
 ## Screenshots
 
 ### ArgoCD Application View
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b497b5dd-003d-4c73-826d-5cac8582bf63" />
+<img width="2484" height="1500" alt="image" src="https://github.com/user-attachments/assets/a38b036d-ea50-4599-8a7e-ede442a8e7d4" />
+
 
 
 ### Nginx Application View
-<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4d88191a-3067-4649-b7e2-85d9cf5cc384" />
+<img width="2076" height="748" alt="image" src="https://github.com/user-attachments/assets/ffaec58c-3824-458f-b31d-7a22405a8da1" />
+
 
 
 ---

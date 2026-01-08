@@ -121,9 +121,11 @@ kubectl logs -n argocd deployment/argocd-application-controller
 
 ### ArgoCD Application View
 ![ArgoCD Application View](attachments/screenshot-argocd-app.png)
+![ArgoCD Application View](https://github.com/rowhittt/gitops-demo/blob/main/screenshots/argocd-app.png)
 
 ### Nginx Application View
 ![Nginx Application View](attachments/screenshot-nginx-app.png)
+![Nginx Application View](https://github.com/rowhittt/gitops-demo/blob/main/screenshots/nginx-app.png)
 
 ---
 

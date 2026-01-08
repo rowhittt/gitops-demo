@@ -117,6 +117,16 @@ kubectl logs -n argocd deployment/argocd-application-controller
 
 ---
 
+## Screenshots
+
+### ArgoCD Application View
+![ArgoCD Application View](attachments/screenshot-argocd-app.png)
+
+### Nginx Application View
+![Nginx Application View](attachments/screenshot-nginx-app.png)
+
+---
+
 ## Troubleshooting
 
 ### Error: `app path does not exist`
